@@ -2,7 +2,7 @@
   "name": "actual-evolution",
   "version": "0.1.0",
   "title": "Actual Evolution",
-  "author": ["@beyarkay"],
+  "author": "@beyarkay",
   "factorio_version": "1.1",
   "dependencies": ["base >= 1.1"],
   "description": "Each biter/spitter is born with slightly different behaviour, and successful biter/spitter pass their behaviour on to the next generation"
